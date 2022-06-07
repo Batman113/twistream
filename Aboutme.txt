@@ -1,0 +1,9 @@
+
+//forgor previous posts
+now remember from here
+we are creating our own history object and browser router
+
+*******************
+history module comed with react-router-dom module 
+you don't have to install again
+*******************
